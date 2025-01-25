@@ -22,4 +22,5 @@
     <img align="center" alt="aws" src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
 </div>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=voyager19878"/>
+ <br><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itscypriano&layout=compact&theme=radical" /></br>
+
