@@ -27,7 +27,7 @@
 <table align="center">
     <tr>
         <td align="center">
-             <img style="width: 100%; max-width: 300px;" src="https://img.icons8.com/ios/80/FFA4C7/python--v1.png" alt="python--v1"/>
+             <img width="80" height="80" src="https://img.icons8.com/ios/80/FFA4C7/python--v1.png" alt="python--v1"/>
             <br>Python
         </td>
         <td align="center">
