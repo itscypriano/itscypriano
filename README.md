@@ -24,35 +24,32 @@
 
 <!-- texto tools & tech-->
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Roboto&weight=700&size=23&duration=1&pause=100000&color=FFA4C7&width=435&lines=Tools+%26+tech+I've+worked+with+%F0%9F%94%A7" alt="Typing SVG" /></a>
+
 <table align="center">
     <tr>
-        <td align="center">
-             <img width="80" height="80" src="https://img.icons8.com/ios/80/FFA4C7/python--v1.png" alt="python--v1"/>
+        <td align="center" width="20%">
+            <img width="80" height="80" src="https://img.icons8.com/ios/80/FFA4C7/python--v1.png" alt="python--v1"/>
             <br>Python
         </td>
-        <td align="center">
+        <td align="center" width="20%">
             <img width="80" height="80" src="https://img.icons8.com/ios/80/FFA4C7/javascript--v1.png" alt="javascript--v1"/>
             <br>Javascript
         </td>
-        <td align="center">
+        <td align="center" width="20%">
             <img width="80" height="80" src="https://img.icons8.com/ios-filled/80/FFA4C7/linux.png" alt="linux"/>
             <br>Linux
         </td>
-        <td align="center">
+        <td align="center" width="20%">
             <img width="80" height="80" src="https://img.icons8.com/dotty/80/FFA4C7/sql.png" alt="sql"/>
             <br>SQL
         </td>
-       <td align="center">
+        <td align="center" width="20%">
             <img width="80" height="80" src="https://img.icons8.com/material-sharp/80/FFA4C7/amazon-web-services.png" alt="amazon-web-services"/>
             <br>AWS
         </td>
-        </td>
-        <td align="center">
-            <img width="80" height="80" src="https://img.icons8.com/ios-filled/80/FFA4C7/power-bi.png" alt="power-bi"/>
-            <br>Power BI
-        </td>
     </tr>
 </table>
+
 
 <!-- status do github -->
 <br>
