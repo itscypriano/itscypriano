@@ -28,23 +28,23 @@
 <table align="center">
     <tr>
         <td align="center" width="20%">
-            <img width="80" height="80" src="https://img.icons8.com/ios/80/FFA4C7/python--v1.png" alt="python--v1"/>
+            <img width="50" height="50" src="https://img.icons8.com/ios/80/FFA4C7/python--v1.png" alt="python--v1"/>
             <br>Python
         </td>
         <td align="center" width="20%">
-            <img width="80" height="80" src="https://img.icons8.com/ios/80/FFA4C7/javascript--v1.png" alt="javascript--v1"/>
+            <img width="50" height="50" src="https://img.icons8.com/ios/80/FFA4C7/javascript--v1.png" alt="javascript--v1"/>
             <br>Javascript
         </td>
         <td align="center" width="20%">
-            <img width="80" height="80" src="https://img.icons8.com/ios-filled/80/FFA4C7/linux.png" alt="linux"/>
+            <img width="50" height="50" src="https://img.icons8.com/ios-filled/80/FFA4C7/linux.png" alt="linux"/>
             <br>Linux
         </td>
         <td align="center" width="20%">
-            <img width="80" height="80" src="https://img.icons8.com/dotty/80/FFA4C7/sql.png" alt="sql"/>
+            <img width="50" height="50" src="https://img.icons8.com/dotty/80/FFA4C7/sql.png" alt="sql"/>
             <br>SQL
         </td>
         <td align="center" width="20%">
-            <img width="80" height="80" src="https://img.icons8.com/material-sharp/80/FFA4C7/amazon-web-services.png" alt="amazon-web-services"/>
+            <img width="50" height="50" src="https://img.icons8.com/material-sharp/80/FFA4C7/amazon-web-services.png" alt="amazon-web-services"/>
             <br>AWS
         </td>
     </tr>
@@ -56,10 +56,10 @@
 <div>
   <p align="center">
     <a href="https://git.io/streak-stats">
-      <img width="45%" src="https://github-readme-streak-stats.herokuapp.com?user=itscypriano&theme=omni&background=00000000&border=FFA4C7&ring=FFA4C7&stroke=FFA4C7&fire=FFA4C7&currStreakNum=FF4BB4&sideNums=FF4BB4&currStreakLabel=FF4BB4&dates=FF4BB4" alt="GitHub Streak" />
+      <img width="35%" src="https://github-readme-streak-stats.herokuapp.com?user=itscypriano&theme=omni&background=00000000&border=FFA4C7&ring=FFA4C7&stroke=FFA4C7&fire=FFA4C7&currStreakNum=FF4BB4&sideNums=FF4BB4&currStreakLabel=FF4BB4&dates=FF4BB4" alt="GitHub Streak" />
     </a>
     &nbsp;&nbsp;&nbsp;&nbsp; <!-- Espaço entre as imagens -->
-    <img width="36%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itscypriano&layout=compact&cardType=github&bg_color=00000000&Text=000&title_color=FFA4C7FF&border_color=FFA4C7&card_width=200" alt="readme-typing-svg">
+    <img width="28%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itscypriano&layout=compact&cardType=github&bg_color=00000000&Text=000&title_color=FFA4C7FF&border_color=FFA4C7&card_width=200" alt="readme-typing-svg">
   </p>
 </div>
 
