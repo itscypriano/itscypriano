@@ -19,26 +19,26 @@
 <!-- texto tools & tech-->
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Roboto&weight=700&size=23&duration=1&pause=100000&color=FFA4C7&width=435&lines=Tools+%26+tech+I've+worked+with+%F0%9F%94%A7" alt="Typing SVG" /></a>
 
-
+<!-- tabela -->
 <table align="center">
     <tr>
-        <td align="center" width="96">
+        <td align="center" width="90">
             <img width="50" height="50" src="https://img.icons8.com/ios/80/FFA4C7/python--v1.png" alt="python--v1"/>
             <br>Python
         </td>
-        <td align="center" width="96">
+        <td align="center" width="90">
             <img width="50" height="50" src="https://img.icons8.com/ios/80/FFA4C7/javascript--v1.png" alt="javascript--v1"/>
             <br>Javascript
         </td>
-        <td align="center" width="96">
+        <td align="center" width="90">
             <img width="50" height="50" src="https://img.icons8.com/ios-filled/80/FFA4C7/linux.png" alt="linux"/>
             <br>Linux
         </td>
-        <td align="center" width="96">
+        <td align="center" width="90">
             <img width="50" height="50" src="https://img.icons8.com/dotty/80/FFA4C7/sql.png" alt="sql"/>
             <br>SQL
         </td>
-        <td align="center" width="96">
+        <td align="center" width="90">
             <img width="50" height="50" src="https://img.icons8.com/material-sharp/80/FFA4C7/amazon-web-services.png" alt="amazon-web-services"/>
             <br>AWS
         </td>
@@ -62,11 +62,11 @@
 
 
 <p align="center">
-<a href="https://github.com/shahriarshafin/shahriarshafin">
-<img width='49%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=shahriarshafin&repo=shahriarshafin&border_color=02D892&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=02D892" />
+<a href="https://github.com/itscypriano/projetinhos">
+<img width='45%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=itscypriano&repo=projetinhos&border_color=FFA4C7&bg_color=0D1117&title_color=FFA4C7&text_color=8B949E&icon_color=FFA4C7" />
 </a>
 <span>&nbsp;</span>
-<a href="https://github.com/shahriarshafin/disney-plus-clone">
-<img width='49%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=shahriarshafin&repo=disney-plus-clone&border_color=02D892&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=02D892" />
+<a href="https://github.com/itscypriano/disney-plus-clone">
+<img width='45%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=itscypriano&repo=disney-plus-clone&border_color=FFA4C7&bg_color=0D1117&title_color=FFA4C7&text_color=8B949E&icon_color=FFA4C7" />
 </a>
 </p>
