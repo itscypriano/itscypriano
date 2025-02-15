@@ -1,49 +1,44 @@
-<!-- texto de welcome -->
- ##  <div align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Roboto&weight=700&size=22&letterSpacing=2.5px&duration=3000&pause=800&color=FFA4C7&width=435&lines=Hi+there!+Welcome+to+my+profile+%F0%9F%A4%93" alt="Typing SVG" /></a></div>
-
 <!-- banner -->
 ![pic1](https://github.com/halfrost/halfrost/blob/master/icons/header_1.png)
 
+<!-- texto de welcome -->
+ <p align="center">
+        <samp>
+                「 I'm a software developer from <b>Brazil</b> 」
+                <br>
+                「 Passionate about Data Analysis and turning information into helpful insights</b> 」
+                <br>
+        </samp>
+ </p>
+
 <!-- frase -->
 <p align = center>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Roboto&weight=700&size=15&letterSpacing=&duration=3000&pause=800&color=FFA4C7&width=435&lines=%22I+have+not+failed.+I%E2%80%99ve+just+found+10%2C000+ways+that+won%E2%80%99t+work%22" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Roboto&weight=700&size=15&letterSpacing=&duration=3000&pause=800&color=FFFFFF&width=435&lines=%22I+have+not+failed.+I%E2%80%99ve+just+found+10%2C000+ways+that+won%E2%80%99t+work%22" alt="Typing SVG" /></a>
 </p>
-
-***
-
-<!-- texto about me-->
-<div>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Roboto&weight=700&size=23&duration=1&pause=100000&color=FFA4C7&width=435&lines=About+me+%F0%9F%93%96" alt="Typing SVG" /></a>
-    
-* 🎓 Multiplatform Software Development [5/6] student at FATEC Mauá
-* 📊 Passionate about Data Analysis and turning information into helpful insights  
-* 🌍 Learning English, Spanish, and Korean to explore the world 
-* 🎮 I love reading, studying and KPOP!
-<br>
-</div>
 
 <!-- texto tools & tech-->
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Roboto&weight=700&size=23&duration=1&pause=100000&color=FFA4C7&width=435&lines=Tools+%26+tech+I've+worked+with+%F0%9F%94%A7" alt="Typing SVG" /></a>
 
+
 <table align="center">
     <tr>
-        <td align="center" width="20%">
+        <td align="center" width="96">
             <img width="50" height="50" src="https://img.icons8.com/ios/80/FFA4C7/python--v1.png" alt="python--v1"/>
             <br>Python
         </td>
-        <td align="center" width="20%">
+        <td align="center" width="96">
             <img width="50" height="50" src="https://img.icons8.com/ios/80/FFA4C7/javascript--v1.png" alt="javascript--v1"/>
             <br>Javascript
         </td>
-        <td align="center" width="20%">
+        <td align="center" width="96">
             <img width="50" height="50" src="https://img.icons8.com/ios-filled/80/FFA4C7/linux.png" alt="linux"/>
             <br>Linux
         </td>
-        <td align="center" width="20%">
+        <td align="center" width="96">
             <img width="50" height="50" src="https://img.icons8.com/dotty/80/FFA4C7/sql.png" alt="sql"/>
             <br>SQL
         </td>
-        <td align="center" width="20%">
+        <td align="center" width="96">
             <img width="50" height="50" src="https://img.icons8.com/material-sharp/80/FFA4C7/amazon-web-services.png" alt="amazon-web-services"/>
             <br>AWS
         </td>
@@ -63,3 +58,15 @@
   </p>
 </div>
 
+<!-- repositórios favoritos -->
+
+
+<p align="center">
+<a href="https://github.com/shahriarshafin/shahriarshafin">
+<img width='49%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=shahriarshafin&repo=shahriarshafin&border_color=02D892&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=02D892" />
+</a>
+<span>&nbsp;</span>
+<a href="https://github.com/shahriarshafin/disney-plus-clone">
+<img width='49%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=shahriarshafin&repo=disney-plus-clone&border_color=02D892&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=02D892" />
+</a>
+</p>
