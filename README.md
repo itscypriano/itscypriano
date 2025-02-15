@@ -49,28 +49,16 @@
     </tr>
 </table>
 
-
-<!-- status do github -->
-<br>
 <div>
   <p align="center">
-    <a href="https://git.io/streak-stats">
-      <img width="auto" src="https://github-readme-streak-stats.herokuapp.com?user=itscypriano&theme=omni&background=00000000&border=FFA4C7&ring=FFA4C7&stroke=FFA4C7&fire=FFA4C7&currStreakNum=FF4BB4&sideNums=FF4BB4&currStreakLabel=FF4BB4&dates=FF4BB4" alt="GitHub Streak" />
+   <br>
+    <a href="https://www.linkedin.com/in/giovanna-cypriano-46617a269/" target="_blank">
+      <img src="https://img.shields.io/badge/-LinkedIn-ffa4c7?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" width="100" height="30" />
     </a>
-    <img align="right" width="39%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itscypriano&cardType=github&bg_color=00000000&Text=000&title_color=FFA4C7FF&border_color=FFA4C7&card_width=200&layout=compact" alt="readme-typing-svg">
-  </p>
+    <a href="https://www.instagram.com/itscypriano/" target="_blank">
+      <img src="https://img.shields.io/badge/-Instagram-ffa4c7?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge" width="100" height="30" />
+    </a>
+    <a href="mailto:gicyprianocontato@gmail.com" target="_blank">
+     <img src="https://img.shields.io/badge/-Email-ffa4c7?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge" width="100" height="30" />
+    </a>
 </div>
-
-
-<!-- repositórios favoritos -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Roboto&weight=700&duration=80&pause=100000&color=FFA4C7&width=435&lines=Favorite+repos+%F0%9F%92%A1" alt="Typing SVG" /></a>
-
-<p align="center">
- <a href="https://github.com/itscypriano/projetinhos">
-  <img width="auto" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=itscypriano&repo=projetinhos&border_color=FFA4C7&bg_color=0D1117&title_color=FFA4C7&text_color=8B949E&icon_color=FFA4C7" />
- </a>
-<span>&nbsp;</span>
- <a href="https://github.com/itscypriano/oracle-next-education">
-  <img width="auto" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=itscypriano&repo=oracle-next-education&border_color=FFA4C7&bg_color=0D1117&title_color=FFA4C7&text_color=8B949E&icon_color=FFA4C7" />
- </a>
-</p>
