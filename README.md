@@ -17,33 +17,33 @@
 </p>
 
 <!-- texto tools & tech-->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Roboto&weight=700&size=23&duration=1&pause=100000&color=FFA4C7&width=435&lines=Tools+%26+tech+I've+worked+with+%F0%9F%94%A7" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Roboto&weight=700&size=23&duration=1&pause=100000&color=FFFFFF&width=435&lines=Tools+%26+tech+I've+worked+with+%F0%9F%94%A7" alt="Typing SVG" /></a>
 
 <!-- tabela -->
 <table align="center">
     <tr>
         <td align="center" width="100">
-            <img width="100%" height="100%" src="https://img.icons8.com/ios/80/FFA4C7/python--v1.png" alt="python--v1"/>
+            <img width="100%" height="100%" src="https://img.icons8.com/?size=100&id=13441&format=png&color=000000" alt="python--v1"/>
             <br>Python
         </td>
         <td align="center" width="100">
-            <img width="100%" height="100%" src="https://img.icons8.com/ios/80/FFA4C7/javascript--v1.png" alt="javascript--v1"/>
+            <img width="100%" height="100%" src="https://img.icons8.com/?size=100&id=rgBl3Xo4H0Ar&format=png&color=000000"/>
+            <br>SQL
+        </td>
+             <td align="center" width="100">
+            <img width="100%" height="100%" src="https://img.icons8.com/?size=100&id=tGvHBPJaKqEd&format=png&color=000000"/>
             <br>Javascript
         </td>
         <td align="center" width="100">
-            <img width="100%" height="100%" src="https://img.icons8.com/ios-filled/80/FFA4C7/linux.png" alt="linux"/>
+            <img width="100%" height="100%" src="https://img.icons8.com/?size=100&id=17842&format=png&color=000000" alt="linux"/>
             <br>Linux
         </td>
         <td align="center" width="100">
-            <img width="100%" height="100%" src="https://img.icons8.com/?size=80&id=3767&format=png&color=FFA4C7"/>
-            <br>SQL
-        </td>
-        <td align="center" width="100">
-            <img width="100%" height="100%" src="https://img.icons8.com/material-sharp/80/FFA4C7/amazon-web-services.png" alt="amazon-web-services"/>
+            <img width="100%" height="100%" src="https://img.icons8.com/?size=100&id=33039&format=png&color=000000" alt="amazon-web-services"/>
             <br>AWS
         </td>
         <td align="center" width="100">
-            <img width="100%" height="100%" src="https://img.icons8.com/?size=80&id=03aYi0fY0D9X&format=png&color=FFA4C7"/>
+            <img width="100%" height="100%" src="https://img.icons8.com/?size=100&id=qYfwpsRXEcpc&format=png&color=000000"/>
             <br>Power BI
         </td>
     </tr>
