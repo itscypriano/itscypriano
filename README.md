@@ -35,7 +35,7 @@
             <br>Linux
         </td>
         <td align="center" width="90">
-            <img width="80" height="80" src="https://img.icons8.com/dotty/80/FFA4C7/sql.png" alt="sql"/>
+            <img width="30" height="30" src="https://img.icons8.com/dotty/30/FFA4C7/sql.png" alt="sql"/>
             <br>SQL
         </td>
         <td align="center" width="90">
