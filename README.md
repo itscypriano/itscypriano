@@ -42,6 +42,10 @@
             <img width="100%" height="100%" src="https://img.icons8.com/material-sharp/80/FFA4C7/amazon-web-services.png" alt="amazon-web-services"/>
             <br>AWS
         </td>
+        <td align="center" width="100">
+            <img width="100%" height="100%" src="https://img.icons8.com/?size=80&id=03aYi0fY0D9X&format=png&color=FFA4C7"/>
+            <br>POWER BI
+        </td>
     </tr>
 </table>
 
