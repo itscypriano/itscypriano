@@ -35,7 +35,7 @@
             <br>Linux
         </td>
         <td align="center" width="90">
-            <img width="30" height="30" src="https://img.icons8.com/dotty/30/FFA4C7/sql.png" alt="sql"/>
+            <img width="50" height="50" src="https://img.icons8.com/?size=100&id=3767&format=png&color=FFA4C7"/>
             <br>SQL
         </td>
         <td align="center" width="90">
@@ -51,22 +51,22 @@
 <div>
   <p align="center">
     <a href="https://git.io/streak-stats">
-      <img width="35%" src="https://github-readme-streak-stats.herokuapp.com?user=itscypriano&theme=omni&background=00000000&border=FFA4C7&ring=FFA4C7&stroke=FFA4C7&fire=FFA4C7&currStreakNum=FF4BB4&sideNums=FF4BB4&currStreakLabel=FF4BB4&dates=FF4BB4" alt="GitHub Streak" />
+      <img height="50%" width="auto" src="https://github-readme-streak-stats.herokuapp.com?user=itscypriano&theme=omni&background=00000000&border=FFA4C7&ring=FFA4C7&stroke=FFA4C7&fire=FFA4C7&currStreakNum=FF4BB4&sideNums=FF4BB4&currStreakLabel=FF4BB4&dates=FF4BB4" alt="GitHub Streak" />
     </a>
     &nbsp;&nbsp;&nbsp;&nbsp; <!-- Espaço entre as imagens -->
-    <img width="28%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itscypriano&layout=compact&cardType=github&bg_color=00000000&Text=000&title_color=FFA4C7FF&border_color=FFA4C7&card_width=200" alt="readme-typing-svg">
+    <img height="50%" width="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itscypriano&layout=compact&cardType=github&bg_color=00000000&Text=000&title_color=FFA4C7FF&border_color=FFA4C7&card_width=200&hide=jupyter%20notebook" alt="readme-typing-svg">
   </p>
 </div>
 
+
 <!-- repositórios favoritos -->
 
-
 <p align="center">
-<a href="https://github.com/itscypriano/projetinhos">
-<img width='45%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=itscypriano&repo=projetinhos&border_color=FFA4C7&bg_color=0D1117&title_color=FFA4C7&text_color=8B949E&icon_color=FFA4C7" />
-</a>
+ <a href="https://github.com/itscypriano/projetinhos">
+  <img width='50%' align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=itscypriano&repo=projetinhos&border_color=FFA4C7&bg_color=0D1117&title_color=FFA4C7&text_color=8B949E&icon_color=FFA4C7" />
+ </a>
 <span>&nbsp;</span>
-<a href="https://github.com/itscypriano/disney-plus-clone">
-<img width='45%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=itscypriano&repo=disney-plus-clone&border_color=FFA4C7&bg_color=0D1117&title_color=FFA4C7&text_color=8B949E&icon_color=FFA4C7" />
-</a>
+ <a href="https://github.com/itscypriano/oracle-next-education">
+  <img width='47%' align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=itscypriano&repo=oracle-next-education&border_color=FFA4C7&bg_color=0D1117&title_color=FFA4C7&text_color=8B949E&icon_color=FFA4C7" />
+ </a>
 </p>
