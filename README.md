@@ -51,10 +51,10 @@
 <div>
   <p align="center">
     <a href="https://git.io/streak-stats">
-      <img height="50%" width="auto" src="https://github-readme-streak-stats.herokuapp.com?user=itscypriano&theme=omni&background=00000000&border=FFA4C7&ring=FFA4C7&stroke=FFA4C7&fire=FFA4C7&currStreakNum=FF4BB4&sideNums=FF4BB4&currStreakLabel=FF4BB4&dates=FF4BB4" alt="GitHub Streak" />
+      <img height="auto" width="40%" src="https://github-readme-streak-stats.herokuapp.com?user=itscypriano&theme=omni&background=00000000&border=FFA4C7&ring=FFA4C7&stroke=FFA4C7&fire=FFA4C7&currStreakNum=FF4BB4&sideNums=FF4BB4&currStreakLabel=FF4BB4&dates=FF4BB4" alt="GitHub Streak" />
     </a>
     &nbsp;&nbsp;&nbsp;&nbsp; <!-- Espaço entre as imagens -->
-    <img height="50%" width="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itscypriano&layout=compact&cardType=github&bg_color=00000000&Text=000&title_color=FFA4C7FF&border_color=FFA4C7&card_width=200&hide=jupyter%20notebook" alt="readme-typing-svg">
+    <img height="auto" width="31%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itscypriano&layout=compact&cardType=github&bg_color=00000000&Text=000&title_color=FFA4C7FF&border_color=FFA4C7&card_width=200&hide=jupyter%20notebook" alt="readme-typing-svg">
   </p>
 </div>
 
