@@ -48,17 +48,3 @@
         </td>
     </tr>
 </table>
-
-<div>
-  <p align="center">
-   <br>
-    <a href="https://www.linkedin.com/in/giovanna-cypriano-46617a269/" target="_blank">
-      <img src="https://img.shields.io/badge/-LinkedIn-ffa4c7?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" width="100" height="30" />
-    </a>
-    <a href="https://www.instagram.com/itscypriano/" target="_blank">
-      <img src="https://img.shields.io/badge/-Instagram-ffa4c7?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge" width="100" height="30" />
-    </a>
-    <a href="mailto:gicyprianocontato@gmail.com" target="_blank">
-     <img src="https://img.shields.io/badge/-Email-ffa4c7?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge" width="100" height="30" />
-    </a>
-</div>
