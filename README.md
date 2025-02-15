@@ -44,7 +44,7 @@
         </td>
         <td align="center" width="100">
             <img width="100%" height="100%" src="https://img.icons8.com/?size=80&id=03aYi0fY0D9X&format=png&color=FFA4C7"/>
-            <br>POWER BI
+            <br>Power BI
         </td>
     </tr>
 </table>
@@ -55,10 +55,9 @@
 <div>
   <p align="center">
     <a href="https://git.io/streak-stats">
-      <img height="10%" width="auto" src="https://github-readme-streak-stats.herokuapp.com?user=itscypriano&theme=omni&background=00000000&border=FFA4C7&ring=FFA4C7&stroke=FFA4C7&fire=FFA4C7&currStreakNum=FF4BB4&sideNums=FF4BB4&currStreakLabel=FF4BB4&dates=FF4BB4" alt="GitHub Streak" />
+      <img width="auto" src="https://github-readme-streak-stats.herokuapp.com?user=itscypriano&theme=omni&background=00000000&border=FFA4C7&ring=FFA4C7&stroke=FFA4C7&fire=FFA4C7&currStreakNum=FF4BB4&sideNums=FF4BB4&currStreakLabel=FF4BB4&dates=FF4BB4" alt="GitHub Streak" />
     </a>
-    &nbsp;&nbsp;&nbsp;&nbsp; <!-- Espaço entre as imagens -->
-    <img height="100%" width="31%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itscypriano&layout=compact&cardType=github&bg_color=00000000&Text=000&title_color=FFA4C7FF&border_color=FFA4C7&hide=jupyter%20notebook" alt="readme-typing-svg">
+    <img align="right" width="39%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itscypriano&cardType=github&bg_color=00000000&Text=000&title_color=FFA4C7FF&border_color=FFA4C7&card_width=200&layout=compact" alt="readme-typing-svg">
   </p>
 </div>
 
