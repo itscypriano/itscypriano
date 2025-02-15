@@ -60,6 +60,7 @@
 
 
 <!-- repositórios favoritos -->
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Roboto&weight=700&size=23&duration=1&pause=100000&color=FFA4C7&width=435&lines=Favorite+repos" alt="Typing SVG" /></a>
 
 <p align="center">
  <a href="https://github.com/itscypriano/projetinhos">
