@@ -19,7 +19,7 @@
 </p>
 
 <!-- texto tools & tech-->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Roboto&weight=700&size=23&duration=1&pause=100000&color=FFFFFF&width=435&lines=Tools+%26+tech+I've+worked+with+%F0%9F%94%A7" alt="Typing SVG" /></a>
+<h2>Tools & tech I've worked with 🔧</h2>
 
 <!-- tabela -->
 <table align="center">
