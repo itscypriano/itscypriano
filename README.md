@@ -26,6 +26,10 @@
 * **Excel & Power B.I:** practicing data extraction and visualization
 * **AWS:** deepening knowledge for the Cloud Practitioner (CLF-C02) certification.
 
+<br>
+
+### My current project:
+* **[ShipHub](https://github.com/itscypriano/backend-folder)**: a robust Vue.js + Python + Flask application designed to streamline and automate the calculation processes used for comparing international freight quotes, enhancing efficiency and precision in global trade operations.
 
 
 <!-- texto tools & tech-->
