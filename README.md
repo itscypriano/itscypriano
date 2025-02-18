@@ -13,14 +13,23 @@
         </samp>
  </p>
 
+
 <!-- frase -->
 <p align = center>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Roboto&weight=700&size=15&letterSpacing=&duration=3000&pause=800&color=FFFFFF&width=435&lines=%22I+have+not+failed.+I%E2%80%99ve+just+found+10%2C000+ways+that+won%E2%80%99t+work%22" alt="Typing SVG" /></a>
 </p>
 
-<!-- texto tools & tech-->
-<h2>Tools & tech I've worked with 🔧</h2>
 
+### My learning journey:
+* **Python:** data analysis and manipulation
+* **Linux (Ubuntu):** mastering the terminal and script automation
+* **Excel & Power B.I:** practicing data extraction and visualization
+* **AWS:** deepening knowledge for the Cloud Practitioner (CLF-C02) certification.
+
+
+
+<!-- texto tools & tech-->
+<br><h2>Tools & tech I've worked with 🔧</h2>
 <!-- tabela -->
 <table align="center">
     <tr>
@@ -50,3 +59,10 @@
         </td>
     </tr>
 </table>
+
+<!-- status github -->
+<br>
+<p align="center">
+  <img height="50%" width="auto" src ="https://github-readme-streak-stats.herokuapp.com?user=itscypriano&theme=darcula&background=00000000&hide_border=true&ring=F9A100&stroke=F9A100&fire=F9A100&currStreakNum=F9A100&sideNums=F9A100&currStreakLabel=F9A100&dates=F9A100" alt="GitHub Streak">
+  <img height="45%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=itscypriano&hide_border=true&title_color=ffd404&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,php&exclude_repo=Pacman-AI">
+</p>
