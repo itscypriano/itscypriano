@@ -29,7 +29,7 @@
 <br>
 
 ### My current project:
-* **[ShipHub](https://github.com/itscypriano/backend-folder)**: a robust Vue.js + Python + Flask application designed to streamline and automate the calculation processes used for comparing international freight quotes, enhancing efficiency and precision in global trade operations.
+* **[ShipHub](https://github.com/itscypriano/shiphub-frontend/tree/master)**: a robust Vue.js + Python + Flask application designed to streamline and automate the calculation processes used for comparing international freight quotes, enhancing efficiency and precision in global trade operations.
 
 
 <!-- texto tools & tech-->
