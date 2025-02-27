@@ -68,5 +68,5 @@
 <br>
 <p align="center">
   <img height="50%" width="auto" src ="https://github-readme-streak-stats.herokuapp.com?user=itscypriano&theme=darcula&background=00000000&hide_border=true&ring=F9A100&stroke=F9A100&fire=F9A100&currStreakNum=F9A100&sideNums=F9A100&currStreakLabel=F9A100&dates=F9A100" alt="GitHub Streak">
-  <img height="45%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=itscypriano&hide_border=true&title_color=ffd404&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,php&exclude_repo=Pacman-AI">
+  <img height="45%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=itscypriano&hide_border=true&title_color=ffd404&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,php&layout=compact">
 </p>
